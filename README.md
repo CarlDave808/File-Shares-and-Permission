@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="600" height="600" alt="google-drive-3" src="https://github.com/user-attachments/assets/60c686f7-5a7e-407e-b54f-d73a6ad5b0a1" />
+
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>Managing File Shares and User Permissions</h1>
 In this tutorial, you will learn how osTicket manages the ticket lifecycle-from intake and categorization to assignment, communication, working the issue, and resolution.<br />
 
 
@@ -10,35 +11,33 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Google Drive
+
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>File Shares and permission Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Viewers
+- Commenters
+- Editors
+- File Secure
 
 <h2>Access URLs</h2>
 
-- Admin/Analyst Login Page:
+- Google Drive Login Page:
 
-  http://localhost/osTicket/scp/login.php
+  https://workspace.google.com/products/drive/
   
 <h2>Lab Objective</h2>
 
-- Log into osTickets
-- Review and manage ticket details as help desk agents
-- Learn how departments, SLAs, priorities, and assignments impact ticket visibility
-- resolve tickets from start to finish
-- Examine real-world ticketing behaviors and limitations
-
+- Learn how to create and organize files and folers for sharing
+- Understand how to assign Viewer, Commenter, and Editor persmissions
+- Practice sharing files with specific users and controlling access via links
+- Explore managing and updating user access to maintain file security
+- Observe real-world scenarios of collabritive file sharing and permission settings
 
 
 <h2>Lifecycle Stages</h2>
