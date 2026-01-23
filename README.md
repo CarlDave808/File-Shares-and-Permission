@@ -46,56 +46,83 @@ In this tutorial, you will learn how to share files using Google Drive and manag
 <h2>Steps</h2>
 
 <p>
-<img width="444" height="361" alt="Screenshot 2026-01-21 105335" src="https://github.com/user-attachments/assets/a0ac0c07-3481-434d-8e9c-d12d31538905" />
 
-</p>
-<h2>Log into osTickets</h2>
+<img width="1424" height="523" alt="Screenshot 2026-01-21 125626" src="https://github.com/user-attachments/assets/ee5526b1-b9c7-4506-abb2-0ea210c4b731" />
 
-1. Navigate:
+<h2>Step 1</h2> 
 
-    http://localhost/osTicket/scp/login.php
-  
-  2. Log into your user account
-  
-</p>
-<br />
+- Log into your Google Drive or sign up for an account.
 
-<p>
-<img width="889" height="346" alt="Screenshot 2026-01-21 111001" src="https://github.com/user-attachments/assets/5679c8ca-c715-47a7-b6f7-5012452bc075" />
 
-3. Navigate to the Tickets section and review tickets that requires action in osTicket
 
-</p>
-<br />
 
-<p>
-<img width="882" height="510" alt="Screenshot 2026-01-21 111157" src="https://github.com/user-attachments/assets/a6811863-fb69-4861-aa23-6ea96295ab6d" />
+<img width="982" height="511" alt="Screenshot 2026-01-21 130100" src="https://github.com/user-attachments/assets/06d44d29-1e19-4666-b695-081cab515158" />
 
-</p>
-<p>
+<img width="985" height="570" alt="Screenshot 2026-01-21 130533" src="https://github.com/user-attachments/assets/546346d3-6d53-4a6e-9886-bf9d10fd7e1a" />
 
-  4. Review each ticket to identify required actions and resolve the issue
-  
-  5. If the issue is unclear, contact the user by phone or email to gather more details and better understanding with their system.
-</p>
-<br />
-<img width="887" height="452" alt="Screenshot 2026-01-21 111605" src="https://github.com/user-attachments/assets/c441b270-c8d5-437d-8b8b-96a5c9bc067d" />
-<img width="876" height="489" alt="Screenshot 2026-01-21 111754" src="https://github.com/user-attachments/assets/2d0b2959-59be-4a5f-b183-99acdfefb6e9" />
+<img width="983" height="485" alt="Screenshot 2026-01-21 130623" src="https://github.com/user-attachments/assets/3096bb3f-9abe-476a-a3ea-df15b666fedd" />
 
-  6. Assign an appropriate priority level based on the issue
+<h2>Step 2</h2>
 
-  7. Place the ticket under the Support department, as it falls within the help desk's responsibilities and will be handled by the support technician
+- You will arive at this screen(Photo 1), then click "My Drive."
 
-<img width="872" height="490" alt="Screenshot 2026-01-21 112032" src="https://github.com/user-attachments/assets/1aa1229e-00fe-44bb-8d99-193f2f52d52d" />
+- Select "New" and choose "Google Docs."
 
-  8. Navigate to the SLA Plan and assign either Sev-A, Sev-B, or Sev-C based on the issue's urgency.
+- Enter a title in the top-left corner of the document.
 
-<img width="877" height="461" alt="Screenshot 2026-01-21 112823" src="https://github.com/user-attachments/assets/f255b532-bdba-4986-9e0f-d5268754702d" />
+- Type any word into the google docs.
 
-  9. Once the solution is identified, contact the customer to explain it and confirm the issue is resolved, then close the ticket.
 
-  10. Update the ticket Status to Closed after the problem has been fixed.
 
-<h2>Final Resolution</h2>
 
-Address and resolve all remaining open tickets, verify that each issue has been properly fixed, and ensure every ticket is correctly updated and closed in the system.
+<img width="986" height="504" alt="Screenshot 2026-01-21 130922" src="https://github.com/user-attachments/assets/1c3385a8-a361-4b40-ba68-b52daa6a6dd1" />
+
+<img width="720" height="112" alt="Screenshot 2026-01-21 131005" src="https://github.com/user-attachments/assets/acf25114-52b8-44d7-a78b-2b60523c9c0a" />
+
+<img width="649" height="962" alt="Screenshot 2026-01-21 131336" src="https://github.com/user-attachments/assets/57ce65c5-a1b6-4b60-8c22-01d7b8d44808" />
+
+<img width="628" height="518" alt="Screenshot 2026-01-23 114709" src="https://github.com/user-attachments/assets/61f0689f-49ac-4eb7-ae5b-4f0593f48792" />
+
+
+<h2>Step 3</h2>
+
+- Return to your Google Drive, refresh the page, and locate the file you just created.
+
+- Copy the file's URL, then open a separate browser window in Incognito/Private mode.
+
+- Click the three dots in your browser and choose "New InPrivate window."
+
+- Click the "Share" button on the file, and under General access, select "Anyone with the link", which allows anyone who has the link to view the file.
+
+- Paste the link into the Incognito/Private window, and you should be able to view the file from that private browser.
+
+
+
+<img width="632" height="634" alt="Screenshot 2026-01-23 115304" src="https://github.com/user-attachments/assets/d286e630-4f74-4ef5-9ec9-19534ef10582" />
+
+<img width="1029" height="477" alt="Screenshot 2026-01-23 121942" src="https://github.com/user-attachments/assets/dc764371-4e98-4104-bb00-ffddeba7f916" />
+
+<h2>Step 4</h2>
+
+- Return to your regular browser and click the "Share" button again. Under access settings, you can change the role to Viewer, Commenter, or Editor.
+
+- When set to Viewer, you can only view the file and see changes as others type.
+
+- When set to commenter, you can view the file and add comments, and the file owner can see your activity.
+
+- When set to editor, you have full control, including editing content, saving changes, or deleting the file.
+
+- Switch back to your Incognito/Private browers-your actions will be limited to the permission level you selected. If you have editor access, try typing in the file to confirm.
+
+
+<img width="459" height="394" alt="Screenshot 2026-01-23 120452" src="https://github.com/user-attachments/assets/d1db4252-768b-4772-b383-362884d3ea9a" />
+
+<img width="925" height="393" alt="Screenshot 2026-01-23 122446" src="https://github.com/user-attachments/assets/af19b093-cf3b-4ad3-8605-733111aa9709" />
+
+<h2>Step 5</h2>
+
+If you don't want your file to be publicly accessible, click "Share" and set General access to Restricted. Then, use the search bar to share the file directly with specific people by entering their email addresses.
+
+For each email recipient, you can choose their permission level-Viewer, commenter, or editor-depending on how much access you want them to have.
+
+Open regular browser, sign in to the email account you shared the file with, locate the file, and try viewing, commenting, or editing it based on the permissions you assigned.
