@@ -13,6 +13,8 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
 
 - Google Drive
 - Google Docs
+- Desktop
+- Web browsers
 
 
 <h2>Operating Systems Used </h2>
