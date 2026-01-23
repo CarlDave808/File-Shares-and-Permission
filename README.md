@@ -4,7 +4,7 @@
 </p>
 
 <h1>Managing File Shares and User Permissions</h1>
-In this tutorial, you will learn how osTicket manages the ticket lifecycle-from intake and categorization to assignment, communication, working the issue, and resolution.<br />
+In this tutorial, you will learn how to share files using Google Drive and manage access securely. You will explore how to set and change permission in Google Drive and Google Docs to control who can view, comment, or edit your files. By the end, you will understand best practices for collaborating safely and efficiently using Google's sharing tools.<br />
 
 
 
@@ -36,14 +36,14 @@ In this tutorial, you will learn how osTicket manages the ticket lifecycle-from 
   
 <h2>Lab Objective</h2>
 
-- Learn how to create and organize files and folers for sharing
+- Learn how to create files for sharing
 - Understand how to assign Viewer, Commenter, and Editor persmissions
 - Practice sharing files with specific users and controlling access via links
 - Explore managing and updating user access to maintain file security
 - Observe real-world scenarios of collabritive file sharing and permission settings
 
 
-<h2>Lifecycle Stages</h2>
+<h2>Steps</h2>
 
 <p>
 <img width="444" height="361" alt="Screenshot 2026-01-21 105335" src="https://github.com/user-attachments/assets/a0ac0c07-3481-434d-8e9c-d12d31538905" />
